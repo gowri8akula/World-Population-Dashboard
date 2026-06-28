@@ -1,5 +1,4 @@
 # World-Population-Dashboard
-- An interactive Power BI dashboard built using  World Bank open data, visualizing global  population trends from 1960 to 2024
 - A fully interactive Power BI dashboard that explores global population trends from 1960–2024 
 using World Bank data — featuring a world map, bar chart rankings, time-series line chart, 
 and year slicer for dynamic filtering across 200+ countries.
