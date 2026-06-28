@@ -153,7 +153,7 @@ and not List.Contains({
 ## 📥 How to View This Dashboard
 1. Download Power BI Desktop for free from
    https://powerbi.microsoft.com/desktop
-2. Download `World_Population_Dashboard.pbix` from this repository
+2. World_Population_Dashboard.pbix
 3. Open the .pbix file in Power BI Desktop
 4. Explore the interactive dashboard!
 
