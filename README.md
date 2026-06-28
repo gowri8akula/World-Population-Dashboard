@@ -25,7 +25,7 @@ and year slicer for dynamic filtering across 200+ countries.
 ---
 
 ## 📂 Data Source
-- [World Bank Open Data](https://data.worldbank.org/indicator/SP.POP.TOTL)
+- World Bank Open Data](https://data.worldbank.org/indicator/SP.POP.TOTL)
 - Indicator: SP.POP.TOTL (Total Population)
 - Coverage: 200+ countries, 1960–2024
 - Format: CSV
@@ -170,7 +170,7 @@ and not List.Contains({
 ---
 
 ## 👤 Author
-- GitHub: [@gowri8akula](https://github.com/gowri8akula)
+- [@gowri8akula](https://github.com/gowri8akula)
 
 ---
 
