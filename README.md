@@ -5,6 +5,7 @@ using World Bank data — featuring a world map, bar chart rankings, time-series
 and year slicer for dynamic filtering across 200+ countries.
 
 ![Dashboard Preview](dashboard.png)
+<img width="1920" height="1080" alt="worldpopulation-dashboard" src="https://github.com/user-attachments/assets/ee856eb2-f970-4442-98e6-f31096ca0497" />
 
 ---
 
